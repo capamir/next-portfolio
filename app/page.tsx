@@ -8,7 +8,7 @@ export default function Home() {
         className="flex w-full h-full items-center bg-cover bg-center"
         style={{ backgroundImage: "url(/main-bg.webp" }}
       >
-        <div className="pl-[40px] md:pl-40 pb-[380px] md:pb-20 flex flex-col gap-5 z-[10] max-w-[750px]">
+        <div className="pl-[40px] md:pl-40 pb-[300px] md:pb-20 flex flex-col gap-5 z-[10] max-w-[750px]">
           <h1 className="text-[50px] text-white font-semibold">
             Make anything possible with{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
