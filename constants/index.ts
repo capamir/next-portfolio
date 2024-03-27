@@ -57,8 +57,14 @@ export const SkillData = [
     height: 80,
   },
   {
-    name: "Stripe Payment",
-    Image: "/stripe.webp",
+    name: "Django",
+    Image: "/django.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "flask",
+    Image: "/flask.png",
     width: 80,
     height: 80,
   },
@@ -73,6 +79,24 @@ export const SkillData = [
     Image: "/mongodb.png",
     width: 40,
     height: 40,
+  },
+  {
+    name: "mysql",
+    Image: "/mysql.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "postgres",
+    Image: "/postges.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "git",
+    Image: "/git-original.svg",
+    width: 80,
+    height: 80,
   },
 ];
 
