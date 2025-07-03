@@ -1,2 +1,2 @@
 
-<img src="./public/images/index.jpg" />
+<img src="./public/index.jpg" />
