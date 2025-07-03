@@ -19,8 +19,8 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-gray-200 hidden md:block">
-            I`m Full-Stack Django & React-JS Web developer with almost 2 years
-            of experiment
+            I`m Full-Stack Django & React-JS Web developer with almost 3 years
+            of Experience
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
