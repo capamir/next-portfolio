@@ -1,1 +1,2 @@
-![index image](public/images/index.jpg)
+
+<img src="./public/images/index.jpg" />
